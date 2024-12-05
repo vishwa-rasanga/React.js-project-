@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by editing <code>src/app/page.js</code>.
+            Version Controlling using GitHub 2025
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
