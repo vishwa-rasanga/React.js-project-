@@ -17,7 +17,7 @@ export default function Home() {
           <li>
             Version Controlling using GitHub 2025
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Java Script Fundamental.</li>
         </ol>
 
         <div className={styles.ctas}>
